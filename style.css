@@ -11,9 +11,15 @@ p.spaced_out {
   word-spacing: 1.5em;
   letter-spacing: 2em;
 }
+p.pretty {
+  text-align: justify;
+}
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 2em;
+}
+h3 {
+  text-align: center;
 }
 .typewiter {
   font-family: "Courier New", Courier, monospace;
