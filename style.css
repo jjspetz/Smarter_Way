@@ -16,3 +16,7 @@ h1 {
 .emphasized {
   font-style: italiic;
 }
+
+.red {
+  color: #f00;
+}
