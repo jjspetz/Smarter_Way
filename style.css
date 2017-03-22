@@ -1,3 +1,7 @@
+blockquote {
+  font-size: 0.8em;
+  color: gray;
+}
 p {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 1.2em;
@@ -13,6 +17,7 @@ p.spaced_out {
 }
 p.pretty {
   text-align: justify;
+  text-indent: 1em
 }
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
