@@ -6,6 +6,11 @@ p.important {
   font-size: 1.5em;
   font-weight: 900;
 }
+p.spaced_out {
+  line-height: 2em;
+  word-spacing: 1.5em;
+  letter-spacing: 2em;
+}
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 2em;
