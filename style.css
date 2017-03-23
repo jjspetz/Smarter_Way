@@ -31,6 +31,7 @@ h3 {
 }
 .borders {
   border: 2px double red;
+  padding: 0.5em 0 0.5em 0;
 }
 .typewiter {
   font-family: "Courier New", Courier, monospace;
