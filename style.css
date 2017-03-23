@@ -26,7 +26,7 @@ h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 2em;
 }
-h3 {
+h3, h4, p.center {
   text-align: center;
 }
 .borders {
