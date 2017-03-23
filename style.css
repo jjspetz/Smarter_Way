@@ -19,6 +19,9 @@ p.pretty {
   text-align: justify;
   text-indent: 1em
 }
+p.offset {
+  margin: 5em;
+}
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 2em;
