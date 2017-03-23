@@ -29,6 +29,9 @@ h1 {
 h3 {
   text-align: center;
 }
+.borders {
+  border: 2px double red;
+}
 .typewiter {
   font-family: "Courier New", Courier, monospace;
 }
