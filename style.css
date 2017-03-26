@@ -39,7 +39,9 @@ h3, h4, p.center {
 .emphasized {
   font-style: italiic;
 }
-
+.block_display {
+  display: block;
+}
 .red {
   color: #f00;
 }
