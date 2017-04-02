@@ -55,3 +55,7 @@ h2#orange {
 img.inset{
   margin-left: 5em;
 }
+img.center {
+  display: block;
+  margin: 0 auto;
+}
