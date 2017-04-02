@@ -59,3 +59,10 @@ img.center {
   display: block;
   margin: 0 auto;
 }
+img.float{
+  float: left;
+  margin: 1em;
+}
+p.clear {
+  clear: both;
+}
