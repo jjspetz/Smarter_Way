@@ -1,3 +1,9 @@
+a {
+  color: gray;
+}
+a:hover {
+  color: orange;
+}
 blockquote {
   font-size: 0.8em;
   color: gray;
