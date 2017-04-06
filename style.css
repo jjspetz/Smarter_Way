@@ -58,6 +58,9 @@ h2#orange {
   margin: 0 3em;
   font-family: Arial, Helvetica, sans-serif;
 }
+#div1 p {
+  font-size: 200%;
+}
 img.inset{
   margin-left: 5em;
 }
