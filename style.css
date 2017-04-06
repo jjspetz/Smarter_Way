@@ -75,3 +75,9 @@ p.clear {
 li {
   margin: 0.5em;
 }
+ul {
+  list-style-type: square;
+}
+ol {
+  list-style-type: upper-roman;
+}
