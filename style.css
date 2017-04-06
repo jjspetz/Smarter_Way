@@ -65,10 +65,13 @@ img.center {
   display: block;
   margin: 0 auto;
 }
-img.float{
+img.float {
   float: left;
   margin: 1em;
 }
 p.clear {
   clear: both;
+}
+li {
+  margin: 0.5em;
 }
